@@ -1,0 +1,12 @@
+{
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "notes": "Hermobile 1.0.2: Hermes Builder now chats first and builds only on request. Plain greetings get a conversational reply \u2014 no surprise index.html.",
+  "artifacts": {
+    "online": {
+      "url": "https://github.com/mattpx/Hermobile/releases/download/hermobile-v1.0.2/hermobile-online-v1.0.2.apk",
+      "sha256": "6e3167c5726a39ea4b6ceb03a0165f52e0e2fa575d67038c36abed5cd52d1810",
+      "sizeBytes": 65345819
+    }
+  }
+}
