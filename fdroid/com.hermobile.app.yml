@@ -1,0 +1,31 @@
+Categories:
+  - Development
+  - System
+License: MIT
+AuthorName: mattpx
+SourceCode: https://github.com/mattpx/Hermobile
+IssueTracker: https://github.com/mattpx/Hermobile/issues
+Changelog: https://github.com/mattpx/Hermobile/releases
+
+AutoName: Hermobile
+
+RepoType: git
+Repo: https://github.com/mattpx/Hermobile.git
+
+AntiFeatures:
+  - NonFreeNet
+
+Builds:
+  - versionName: 1.0.2
+    versionCode: 3
+    commit: v1.0.2
+    subdir: app
+    ndk: r26b
+    submodules: true
+    gradle:
+      - yes
+
+AutoUpdateMode: Version v%v
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.2
+CurrentVersionCode: 3

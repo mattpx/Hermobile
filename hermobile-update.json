@@ -1,0 +1,12 @@
+{
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "notes": "Hermobile rebrand (com.hermobile.app): full package move with matching JNI names and app-private paths. On-device AI app builder with direct provider API agents, workspace chat/files/terminal/preview, and on-device Android builds. No root required.",
+  "artifacts": {
+    "online": {
+      "url": "https://github.com/mattpx/Hermobile/releases/download/hermobile-v1.0.7/hermobile-online-v1.0.7.apk",
+      "sha256": "e8356923e8820fcebe21713b9763072215149a14ca24b6b8356d4463db2d9460",
+      "sizeBytes": 66772471
+    }
+  }
+}
